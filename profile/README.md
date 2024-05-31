@@ -13,6 +13,6 @@
 
 🙋‍♀️ We, at **HyperMatrix**, work towards developing **trustworthy** and **responsible AI**. 
 
-👩‍💻 The current focus is on the **robustness**, **generalization**, **interpretation**, and **explainability** of deep learning models. 
+👩‍💻 Our focus is on the **robustness**, **generalization**, **interpretation**, and **explainability** of deep learning models. 
 
 🌈 The lab is led by [Professor Hassan Sajjad](https://hsajjad.github.io/) at the [Faculty of Computer Science](https://cs.dal.ca/), [Dalhousie University](https://www.dal.ca/).
